@@ -9,9 +9,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Start.unity
     guid: 1c5d6de01b777486c88adeae2faae229
   - enabled: 1
+    path: Assets/Scenes/Maze 2.unity
+    guid: 6cf824dd47a4a4bc4ab5db12af49979b
+  - enabled: 1
+    path: Assets/Scenes/Maze 1.unity
+    guid: 2ce4b760a0a0a4da3af38857239e14b7
+  - enabled: 1
     path: Assets/Scenes/Maze.unity
     guid: 5a4920c154f014e5dbc947533c7099b8
   - enabled: 1
     path: Assets/Scenes/End.unity
     guid: ec56eba543e864a1d976ac0d079473d8
+  - enabled: 0
+    path: Assets/Scenes/Maze d.unity
+    guid: b226e1594fbfd4df0a3e92ae42a4aa76
+  - enabled: 0
+    path: Assets/Scenes/Maze 3.unity
+    guid: 2a2268f67d03e446ebf0992b9d25f259
   m_configObjects: {}
